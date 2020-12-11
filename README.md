@@ -3,6 +3,9 @@
 This is the GitHub repository for https://buildcomics.com/uncategorized/g-rinder-and-the-textmeter/. It contains arduino code for the arduino nano in the folder named "arduino".\
 The used plates and GIMP files are in Plates/
 
+## Parts
+Please note that the LTC4946m is pretty rare, but I have a bunch of them lying around. There are however many other 8 segment displays that will work perfectly with an Arduino for this purpose, but they do need different wiring.
+
 ## Wiring
 The wiring is fairly flexible, use the PIN definitions in the arduino code to change it to your needs. Here is the same info as the arduino file:
 ```
